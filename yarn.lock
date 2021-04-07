@@ -2422,28 +2422,28 @@
   dependencies:
     tslib "^1.14.1"
 
-"@shopify/decorators@^1.2.3":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@shopify/decorators/-/decorators-1.2.3.tgz#be718d01e34fda3a8fbd74eb46de2dca217b1ff0"
-  integrity sha512-D1XAAretWpIug8jsQB0nZsX9nUF9bw83ZuYeGofBRc7tEq8oI8PtFZOQud70kSuVQvjl4xMy8Js+ztQmARc0KA==
+"@shopify/decorators@^1.2.4":
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@shopify/decorators/-/decorators-1.2.4.tgz#ea71be3e3589850d17bdf140361e44d1bcd4aec4"
+  integrity sha512-0pbpbwS+A+4kkvgs89lImVIPzPB2VF52KeH1Qq/xpApsNgvUMzHKqGanb/l/HcB82E9lIMyX8cu9uFFnHp86eg==
   dependencies:
-    "@shopify/function-enhancers" "^1.1.3"
+    "@shopify/function-enhancers" "^1.1.4"
     tslib "^1.14.1"
 
-"@shopify/function-enhancers@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@shopify/function-enhancers/-/function-enhancers-1.1.3.tgz#51ccb13460eba3ff9a0afdacc0a6d5af637d7fbc"
-  integrity sha512-0El54PC9hOQTV+ervEKqtFtH9bPgJH5huWaOmHQOEpZeJAKAa7mqsUCZPDszoepY/ygyQgWSQdfnqgXLFQraYA==
+"@shopify/function-enhancers@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@shopify/function-enhancers/-/function-enhancers-1.1.4.tgz#77184b0cfe0b28150a4f9531f63269c878fce261"
+  integrity sha512-DYnYwzHoaOE8ofHgC7F3vPsTNvu/9nX1Datw6OzroBRLIz0M/uNiO6R/tprvLnZfBsUjRKh3sDpmW8R4UIp75w==
   dependencies:
     tslib "^1.14.1"
 
-"@shopify/jest-dom-mocks@2.11.3":
-  version "2.11.3"
-  resolved "https://registry.yarnpkg.com/@shopify/jest-dom-mocks/-/jest-dom-mocks-2.11.3.tgz#6f444cc1ed02e60d723610017a38b152a8983ee0"
-  integrity sha512-dc00q+IZcNT0Sl2eMxiJPjZnuwv35YImGdBXzpqZzIRPSp7oov/qBuQpEvctsMBu85dRIs73c1j9YKBpiXNbSQ==
+"@shopify/jest-dom-mocks@2.11.4":
+  version "2.11.4"
+  resolved "https://registry.yarnpkg.com/@shopify/jest-dom-mocks/-/jest-dom-mocks-2.11.4.tgz#2cfdd117fa98dbad9c3ec82b1d0f3e18656fbb6f"
+  integrity sha512-zDBaHIyulj6m/5MqasXwMFs0sGDxe1Tjd5Wgqnz0cEpRO13REidLlsmuX4PapoZgxFzNFzCQ3RirYtXVunD4hg==
   dependencies:
     "@shopify/async" "^2.2.3"
-    "@shopify/decorators" "^1.2.3"
+    "@shopify/decorators" "^1.2.4"
     "@types/fetch-mock" "^7.3.3"
     "@types/lolex" "^2.1.3"
     fetch-mock "^9.11.0"
